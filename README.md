@@ -2,7 +2,7 @@
 The project is about how to write test suites and test cases in [Jasmine](http://jasmine.github.io/). For more info on Jasmin please checkout the [Jasmine Documentation](http://jasmine.github.io/).
 
 # How to run the project?
-1. Download or clone the repo from [https://github.com/udacity/frontend-nanodegree-feedreader.git](https://github.com/udacity/frontend-nanodegree-feedreader.git).
+1. Download or clone the repo from [https://github.com/kurmivivek295/udacity-feed-reader-project.git](https://github.com/kurmivivek295/udacity-feed-reader-project.git).
 2. Go to the project directory `cd frontend-nanodegree-feedreader`
 3. Install `http-server` with npm using `npm install -g http-server`
 4. And then run command `http-server` and open one of the given url in browser.
